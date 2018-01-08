@@ -1,4 +1,3 @@
-lucy
 Hi,Welcome to Vim Editor.
 It's my honour to introduce our product.
 Now,let's begin.
