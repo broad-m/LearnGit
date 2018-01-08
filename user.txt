@@ -1,1 +1,15 @@
-tom
+lucy
+Hi,Welcome to Vim Editor.
+It's my honour to introduce our product.
+Now,let's begin.
+First of all,Vim is a very powerful text editor.
+Vim support edit mode,insert mode,command mode.
+as we know,edit mode allow us to edit the text,
+such as turn to line by line number,delete charactor,delete line ,parste words and so on...
+here we go ,road on map...loololololo...
+
+
+
+
+
+
